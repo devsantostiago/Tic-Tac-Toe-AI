@@ -5,7 +5,7 @@
 //  Created by Tiago Santos on 22/06/2021.
 //
 
-@testable import Tic_Tac_Toe_AI
+import Tic_Tac_Toe_Engine
 
 class Helpers {
     

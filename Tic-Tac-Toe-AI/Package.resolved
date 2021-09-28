@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Tic-Tac-Toe-Engine",
+        "repositoryURL": "https://github.com/devsantostiago/Tic-Tac-Toe-Game-Engine.git",
+        "state": {
+          "branch": "master",
+          "revision": "d8432c7328e8638c73e0160d71696681256c636a",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
